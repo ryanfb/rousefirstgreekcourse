@@ -1,6 +1,6 @@
 # W.H.D. Rouse, *A First Greek Course*
 
-Readings from W.H.D. Rouse's *A First Greek Course*.
+Readings from W.H.D. Rouse's *A First Greek Course*. The goal is to lemmatize this data, then use it to produce a frequency dictionary for the text.
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
