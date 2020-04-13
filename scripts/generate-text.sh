@@ -1,4 +1,9 @@
 #!/bin/bash
+# Requires:
+# pdfimages, tesseract, uconv
+# Run from project root, e.g.:
+# ./scripts/generate-text.sh
+
 
 if [ ! -e "orig/rousegreekcourse-016.png" ]; then
   echo "Splitting PDF into page images..."
