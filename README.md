@@ -1,20 +1,20 @@
-# {{ NAME OF TEXT }}
+# W.H.D. Rouse, *A First Greek Course*
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
+Readings from W.H.D. Rouse's *A First Greek Course*.
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
+* Ryan Baumann
 
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
+<https://archive.org/details/FirstGreekCourse/>
 
 ## Progress
 
-{{ indicate progress, or remove entire section if done }}
+Pages selected, then OCR'd using Tesseract 4.1.1 and the distributed `eng+grc` training data. Currently undergoing manual correction and stripping down to readings alone.
 
 ## License
 
